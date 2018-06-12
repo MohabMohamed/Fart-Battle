@@ -1,0 +1,38 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://assets/background.png" type="Texture" id=1]
+[ext_resource path="res://assets/throne.png" type="Texture" id=2]
+[ext_resource path="res://assets/enemy-boss.png" type="Texture" id=3]
+[ext_resource path="res://assets/hero_000.png" type="Texture" id=4]
+
+[node name="start" type="Node2D" index="0"]
+
+__meta__ = {
+"_edit_horizontal_guides_": [  ]
+}
+
+[node name="background" type="Sprite" parent="." index="0"]
+
+texture = ExtResource( 1 )
+centered = false
+_sections_unfolded = [ "Offset", "Transform" ]
+
+[node name="throne" type="Sprite" parent="background" index="0"]
+
+position = Vector2( 1100.31, 457.309 )
+scale = Vector2( 0.483393, 0.601355 )
+texture = ExtResource( 2 )
+
+[node name="enemy-boss" type="Sprite" parent="background/throne" index="0"]
+
+position = Vector2( -53.1265, 84.7128 )
+scale = Vector2( 1.36435, 1.24648 )
+texture = ExtResource( 3 )
+
+[node name="hero_000" type="Sprite" parent="background/throne/enemy-boss" index="0"]
+
+position = Vector2( -1282.17, 84.6498 )
+scale = Vector2( 0.461936, 0.324493 )
+texture = ExtResource( 4 )
+
+

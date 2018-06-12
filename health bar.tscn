@@ -1,0 +1,102 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://health bar.gd" type="Script" id=1]
+[ext_resource path="res://assets/health_bar_overlay.png" type="Texture" id=2]
+
+[sub_resource type="Theme" id=1]
+
+
+[node name="health bar" type="Node2D" index="0"]
+
+modulate = Color( 0.574219, 0.10318, 0.10318, 1 )
+position = Vector2( 8.16223, 10.6396 )
+script = ExtResource( 1 )
+_sections_unfolded = [ "Material", "Visibility" ]
+display_health_text = true
+
+[node name="overlay" type="Sprite" parent="." index="0"]
+
+texture = ExtResource( 2 )
+
+[node name="health" type="TextureProgress" parent="." index="1"]
+
+modulate = Color( 0.515625, 0.118835, 0.118835, 1 )
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 40.0
+margin_bottom = 40.0
+rect_pivot_offset = Vector2( 0, 0 )
+mouse_filter = 1
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+theme = SubResource( 1 )
+min_value = 0.0
+max_value = 100.0
+step = 1.0
+page = 0.0
+value = 0.0
+exp_edit = false
+rounded = false
+texture_under = null
+texture_over = null
+texture_progress = null
+radial_fill_degrees = 360.0
+radial_center_offset = Vector2( 0, 0 )
+nine_patch_stretch = true
+_sections_unfolded = [ "Hint", "Textures", "Theme", "Visibility" ]
+
+[node name="backround" type="TextureProgress" parent="." index="2"]
+
+modulate = Color( 0.515625, 0.118835, 0.118835, 1 )
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 40.0
+margin_bottom = 40.0
+rect_pivot_offset = Vector2( 0, 0 )
+mouse_filter = 1
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+theme = SubResource( 1 )
+min_value = 0.0
+max_value = 100.0
+step = 1.0
+page = 0.0
+value = 0.0
+exp_edit = false
+rounded = false
+texture_under = null
+texture_over = null
+texture_progress = null
+radial_fill_degrees = 360.0
+radial_center_offset = Vector2( 0, 0 )
+nine_patch_stretch = true
+_sections_unfolded = [ "Hint", "Textures", "Theme", "Visibility" ]
+
+[node name="health text" type="Label" parent="." index="3"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 40.0
+margin_bottom = 14.0
+rect_pivot_offset = Vector2( 0, 0 )
+mouse_filter = 2
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 4
+custom_colors/font_color = Color( 0.914063, 0.871216, 0.871216, 1 )
+custom_colors/font_color_shadow = Color( 0.882813, 0.86557, 0.86557, 1 )
+text = "100%"
+percent_visible = 1.0
+lines_skipped = 0
+max_lines_visible = -1
+_sections_unfolded = [ "custom_colors", "custom_fonts" ]
+
+
