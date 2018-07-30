@@ -7,10 +7,7 @@ path="res://.import/punch_007.png-1f8313bd279c36969addd0ca7313ef16.stex"
 [deps]
 
 source_file="res://assets/farty/punch_007.png"
-source_md5="54fb1f1b55261d4c1ecdb9d9a97cb097"
-
 dest_files=[ "res://.import/punch_007.png-1f8313bd279c36969addd0ca7313ef16.stex" ]
-dest_md5="15868786246db9574d00346ec753e49b"
 
 [params]
 

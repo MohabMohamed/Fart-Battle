@@ -7,10 +7,7 @@ path="res://.import/throne.png-46e304a34c300f231174156e6f3df1ee.stex"
 [deps]
 
 source_file="res://assets/throne.png"
-source_md5="fe4c019c783832ff12a1d66a55d8ba10"
-
 dest_files=[ "res://.import/throne.png-46e304a34c300f231174156e6f3df1ee.stex" ]
-dest_md5="cd473fa20600bd055dfe222b80056519"
 
 [params]
 

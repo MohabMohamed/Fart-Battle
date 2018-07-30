@@ -7,10 +7,7 @@ path="res://.import/idle_001.png-5a764b8a58f464e6b2112c5adb0042f2.stex"
 [deps]
 
 source_file="res://assets/farty/idle_001.png"
-source_md5="b74d3d9c82e8f29a0a97d01aca90455f"
-
 dest_files=[ "res://.import/idle_001.png-5a764b8a58f464e6b2112c5adb0042f2.stex" ]
-dest_md5="f01a4fd9cb396a04e9768356346a601e"
 
 [params]
 

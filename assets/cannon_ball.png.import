@@ -7,10 +7,7 @@ path="res://.import/cannon_ball.png-fdfa9d6e34a06e185d859677e445390f.stex"
 [deps]
 
 source_file="res://assets/cannon_ball.png"
-source_md5="4be90fc35e7918f4b76f7da4d4f661eb"
-
 dest_files=[ "res://.import/cannon_ball.png-fdfa9d6e34a06e185d859677e445390f.stex" ]
-dest_md5="1ef2e846f04f8d79d32789105e083efa"
 
 [params]
 

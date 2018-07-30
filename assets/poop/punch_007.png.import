@@ -7,10 +7,7 @@ path="res://.import/punch_007.png-3f3975308be377fef9fb631f5cae4758.stex"
 [deps]
 
 source_file="res://assets/poop/punch_007.png"
-source_md5="3bef4ebffe33cc3d7041df3881db0717"
-
 dest_files=[ "res://.import/punch_007.png-3f3975308be377fef9fb631f5cae4758.stex" ]
-dest_md5="fe030e0863781eb9a3cbc5f2fd748353"
 
 [params]
 

@@ -7,10 +7,7 @@ path="res://.import/health_bar_overlay.png-b58ef88202d22eac79db227828f3bcb0.stex
 [deps]
 
 source_file="res://assets/health_bar_overlay.png"
-source_md5="2dcf754f2cfa31eee2133f391c849358"
-
 dest_files=[ "res://.import/health_bar_overlay.png-b58ef88202d22eac79db227828f3bcb0.stex" ]
-dest_md5="1f11ac36c69f5472f3a9c5cd62711eb9"
 
 [params]
 

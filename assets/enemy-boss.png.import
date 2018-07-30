@@ -7,10 +7,7 @@ path="res://.import/enemy-boss.png-7243bfb22fd4f4bb83c1f9d5b0a9505c.stex"
 [deps]
 
 source_file="res://assets/enemy-boss.png"
-source_md5="a5b6d595f1a91057f5ff8c36002b85be"
-
 dest_files=[ "res://.import/enemy-boss.png-7243bfb22fd4f4bb83c1f9d5b0a9505c.stex" ]
-dest_md5="30f7ea9624ccb3048c7bc070627df6c1"
 
 [params]
 

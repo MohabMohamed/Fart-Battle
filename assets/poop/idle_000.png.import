@@ -7,10 +7,7 @@ path="res://.import/idle_000.png-5542d4ffeae115282620925792d476e1.stex"
 [deps]
 
 source_file="res://assets/poop/idle_000.png"
-source_md5="dd661b6e5bb2bea59f87632624c13138"
-
 dest_files=[ "res://.import/idle_000.png-5542d4ffeae115282620925792d476e1.stex" ]
-dest_md5="1163c1ab75dd7e18755ab1a98aa037e5"
 
 [params]
 

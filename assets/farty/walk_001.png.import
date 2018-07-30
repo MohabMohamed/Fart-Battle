@@ -7,10 +7,7 @@ path="res://.import/walk_001.png-c1295194ce9ca77bb3cf5b85623a9f6c.stex"
 [deps]
 
 source_file="res://assets/farty/walk_001.png"
-source_md5="c9cd71910e22def2d0652ddc3ecdd3ca"
-
 dest_files=[ "res://.import/walk_001.png-c1295194ce9ca77bb3cf5b85623a9f6c.stex" ]
-dest_md5="2bf788ef092a90d325070234b7315450"
 
 [params]
 

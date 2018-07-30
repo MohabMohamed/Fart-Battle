@@ -7,10 +7,7 @@ path="res://.import/walk_004.png-5c09a65cd9fcfaa6a287fb099f0af8a0.stex"
 [deps]
 
 source_file="res://assets/poop/walk_004.png"
-source_md5="07621e5c15df87afc88fcdb1bdeb983c"
-
 dest_files=[ "res://.import/walk_004.png-5c09a65cd9fcfaa6a287fb099f0af8a0.stex" ]
-dest_md5="3fb4621204b12737e0eb9ba13c5abcb5"
 
 [params]
 

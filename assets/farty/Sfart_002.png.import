@@ -7,10 +7,7 @@ path="res://.import/Sfart_002.png-1f0d28ff6f6fcf85cdec591d78ad9a24.stex"
 [deps]
 
 source_file="res://assets/farty/Sfart_002.png"
-source_md5="191f8f74c028af6de63c21d7eb2be390"
-
 dest_files=[ "res://.import/Sfart_002.png-1f0d28ff6f6fcf85cdec591d78ad9a24.stex" ]
-dest_md5="f2dc7790f64ea7ad3241214a03da46ee"
 
 [params]
 

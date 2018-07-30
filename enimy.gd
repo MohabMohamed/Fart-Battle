@@ -22,13 +22,13 @@ func hit():
 
 
 
-
 func _process(delta):
 	player= get_tree().get_current_scene().get_node("player")
 	player_pos = player.position
 	velocity = Vector2() 
-	if abs(player_pos.x-position.x)<100:
+	if abs(player_pos.x-position.x)<200:
 		hit()
+		return
 	else :
 		$AnimatedSprite.animation="walk"
 	if player_pos.x<position.x:
